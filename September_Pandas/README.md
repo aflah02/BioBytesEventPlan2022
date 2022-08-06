@@ -3,5 +3,5 @@
 Topics to cover:
 - Pandas
 - Dataset loading
-- Beautiful Plots
+- Memory Management in Dataframes
 - Sharing Jupyter Notebooks
